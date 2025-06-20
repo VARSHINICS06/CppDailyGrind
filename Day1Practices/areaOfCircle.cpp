@@ -4,6 +4,7 @@
 using namespace std;
 int main(){
     float r;
+    int cl;
     float a=3.14*r*r;
     cout<<"Enter the radius Circle"<<endl;
     cin>>r;
